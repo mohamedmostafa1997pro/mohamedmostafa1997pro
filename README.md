@@ -1,4 +1,6 @@
-### Hi there [👋](https://camo.githubusercontent.com/11757284311512dd4ebdcb5228aa0449cc806b4e87cfcdec05819cd3982ae8b6/68747470733a2f2f6d656469612e74656e6f722e636f6d2f57783949456d5a5a58536f41414141692f68692e676966)
+### Hi there [👋]
+****
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=17&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=I'm+Mohamed+Mostafa+Mohamed)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=I'm+Mohamed+Mostafa+Mohamed)](https://git.io/typing-svg)
 
