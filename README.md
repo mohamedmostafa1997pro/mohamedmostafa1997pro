@@ -8,7 +8,7 @@
  
  ***
  
-  I'm a data science enthusiast and passionate about using data to drive meaningful insights and solve complex problems.
+  I'm a Data Analysis enthusiast and passionate about using data to drive meaningful insights and solve complex problems.
 
 🔭 I’m currently learning and Working on:
 
@@ -18,7 +18,7 @@
 
 👀 I’m interested in:
 
- Data Science and Machine learning,
+ Data Analytics 
  Data Cleaning, Visualization
  Trend Analysis, Insights
  
