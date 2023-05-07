@@ -1,7 +1,5 @@
 ### Hi there 👋
-   <a href="https://github.com/DenverCoder1">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Mohamed Mostafa" /></a>
- 
+
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&width=435&lines=Python+%7C+SQL+%7C+Power+BI+%7C+Excel+%7CETL;Open+For+Work+%7C+Full-Time+%7C+Freelancing+;Providing+Data-driven+Solutions;For+Business+Growth+)](https://git.io/typing-svg) 
  
 <!--
