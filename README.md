@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=mohamed+mostafa+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
+
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&width=435&lines=Python+%7C+SQL+%7C+Power+BI+%7C+Excel+%7CETL;Open+For+Work+%7C+Full-Time+%7C+Freelancing+;Providing+Data-driven+Solutions;For+Business+Growth+)](https://git.io/typing-svg) 
  
 <!--
