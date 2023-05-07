@@ -4,6 +4,12 @@
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&width=435&lines=Python+%7C+SQL+%7C+Power+BI+%7C+Excel+%7CETL;Open+For+Work+%7C+Full-Time+%7C+Freelancing+;Providing+Data-driven+Solutions;For+Business+Growth+)](https://git.io/typing-svg) 
  
+ ***
+ 
+  I'm a data science enthusiast and passionate about using data to drive meaningful insights and solve complex problems.
+
+
+ 
  #### Find me in social media
 [![Github](https://img.icons8.com/ios-filled/30/000000/github.png "Github")](https://github.com/mohamedmostafa1997pro "Github")
 [![LinkedIn](https://img.icons8.com/ios-glyphs/30/000000/linkedin.png "LinkedIn")](https://www.linkedin.com/in/mohamedmostafamohamed/ "LinkedIn")
